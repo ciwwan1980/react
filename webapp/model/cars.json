@@ -1,0 +1,346 @@
+{   "carsCount":10,
+    "carsCollection":[
+    {
+        "id":1,
+        "marke": "VW",
+        "model": "Volkswagen Golf IQ.DRIVE",
+        "ps": 115,
+        "farbe": "Black",
+        "price": 18000,
+        "image": "/model/images/1_volkswagen_golf.png",
+        "dataProp":[
+            {
+            
+                "sale": 30000,
+                "year":"2021"
+
+            },
+            {
+            
+                "sale": 20000,
+                "year":"2020"
+
+            },
+            {
+            
+                "sale": 40000,
+                "year":"2019"
+
+            }
+        ],
+        "vizproperties":{
+            "title":{
+                "text":"Volkswagen Golf IQ.DRIVE"
+            }
+        }
+    },
+
+    {
+        "id":2,
+        "marke": "VW",
+        "model": "Golf-8",
+        "ps": 190,
+        "farbe": "Red",
+        "price": 32000,
+        "image": "/model/images/2_Golf_8.png",
+        "dataProp":[
+            {
+            
+                "sale": 20000,
+                "year":"2021"
+
+            },
+            {
+            
+                "sale": 15000,
+                "year":"2020"
+
+            },
+            {
+            
+                "sale": 70000,
+                "year":"2019"
+
+            }
+        ],
+        "vizproperties":{
+            "title":{
+                "text":"Golf-8"
+            }
+        }
+    },
+    {
+        "id":3,
+        "marke": "VW",
+        "model": "Golf R-line",
+        "ps": 280,
+        "farbe": "White",
+        "price": 34000,
+        "image": "/model/images/3_nissan.png",
+
+        "dataProp":[
+            {
+            
+                "sale": 10000,
+                "year":"2021"
+
+            },
+            {
+            
+                "sale": 16000,
+                "year":"2020"
+
+            },
+            {
+            
+                "sale": 12000,
+                "year":"2019"
+
+            }
+        ],
+        "vizproperties":{
+            "title":{
+                "text":"Golf R-line"
+            }
+        }
+    },
+    {
+        "id":4,
+        "marke": "VW",
+        "model": "Golf GTE",
+        "ps": 190,
+        "farbe": "Yellow",
+        "price": 37000,
+        "image": "/model/images/4_bmw.png",
+        "dataProp":[
+            {
+            
+                "sale": 12000,
+                "year":"2021"
+
+            },
+            {
+            
+                "sale": 15000,
+                "year":"2020"
+
+            },
+            {
+            
+                "sale": 1000,
+                "year":"2019"
+
+            }
+        ],
+        "vizproperties":{
+            "title":{
+                "text":"Golf GTE"
+            }
+        }
+    }, 
+    {
+        "id":5,
+        "marke": "VW",
+        "model": "GTI",
+        "ps": 354,
+        "farbe": "Red",
+        "price": 30000,
+        "image": "/model/images/5_audi.png",
+        "dataProp":[
+            {
+            
+                "sale": 10000,
+                "year":"2021"
+
+            },
+            {
+            
+                "sale": 7000,
+                "year":"2020"
+
+            },
+            {
+            
+                "sale": 14000,
+                "year":"2019"
+
+            }
+        ],
+        "vizproperties":{
+            "title":{
+                "text":"GTI"
+            }
+        }
+    },
+    {
+        "id":6,
+        "marke": "VW",
+        "model": "Der Golf",
+        "ps": 245,
+        "farbe": "Yellow",
+        "price": 27000,
+        "image": "/model/images/6_audi2.png",
+        "dataProp":[
+            {
+            
+                "sale": 18000,
+                "year":"2021"
+
+            },
+            {
+            
+                "sale": 9000,
+                "year":"2020"
+
+            },
+            {
+            
+                "sale": 14000,
+                "year":"2019"
+
+            }
+        ],
+        "vizproperties":{
+            "title":{
+                "text":"Der Golf"
+            }
+        }
+    },
+    {
+        "id":7,
+        "marke": "VW",
+        "model": "GTI-Clubsport",
+        "ps": 300,
+        "farbe": "Blue",
+        "price": 42000,
+        "image": "/model/images/7_vw-polo.png",
+        "dataProp":[
+            {
+            
+                "sale": 21000,
+                "year":"2021"
+
+            },
+            {
+            
+                "sale": 9000,
+                "year":"2020"
+
+            },
+            {
+            
+                "sale": 19000,
+                "year":"2019"
+
+            }
+        ],
+        "vizproperties":{
+            "title":{
+                "text":"GTI-Clubsport"
+            }
+        }
+    },
+    {
+        "id":8,
+        "marke": "VW",
+        "model": "Der Up",
+        "ps": 180,
+        "farbe": "Red",
+        "price": 13800,
+        "image": "/model/images/8_mercedes.png",
+        "dataProp":[
+            {
+            
+                "sale": 10000,
+                "year":"2021"
+
+            },
+            {
+            
+                "sale": 9000,
+                "year":"2020"
+
+            },
+            {
+            
+                "sale": 7000,
+                "year":"2019"
+
+            }
+        ],
+        "vizproperties":{
+            "title":{
+                "text":"Der Up"
+            }
+        }
+    },
+    {
+        "id":9,
+        "marke": "Toyota",
+        "model": "Mirai",
+        "ps": 639,
+        "farbe": "Blue",
+        "price": 64000,
+        "image": "/model/images/9_toyota.png",
+        "dataProp":[
+            {
+            
+                "sale": 13000,
+                "year":"2021"
+
+            },
+            {
+            
+                "sale": 9000,
+                "year":"2020"
+
+            },
+            {
+            
+                "sale": 7000,
+                "year":"2019"
+
+            }
+        ],
+        "vizproperties":{
+            "title":{
+                "text":"Mirai"
+            }
+        }
+    },
+    {
+        "id":10,
+        "marke": "Toyota",
+        "model": "Toyota Rush G",
+        "ps": 109,
+        "farbe": "White",
+        "price": 30000,
+        "image": "/model/images/10_toyota_rush.png",
+        "dataProp":[
+            {
+            
+                "sale": 9000,
+                "year":"2021"
+
+            },
+            {
+            
+                "sale": 9000,
+                "year":"2020"
+
+            },
+            {
+            
+                "sale": 14000,
+                "year":"2019"
+
+            }
+        ],
+        "vizproperties":{
+            "title":{
+                "text":"Toyota Rush G"
+            }
+        }
+    }
+    
+    ]}

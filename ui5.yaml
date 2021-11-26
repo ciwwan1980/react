@@ -1,0 +1,7 @@
+specVersion: '2.5'
+metadata:
+  name: webapp
+type: application
+framework:
+  name: OpenUI5
+  version: "1.95.0"

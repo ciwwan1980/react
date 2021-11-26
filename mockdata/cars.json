@@ -1,0 +1,94 @@
+{"carsCollection":[
+    {
+        "id":1,
+        "marke": "VW",
+        "model": "Volkswagen Golf IQ.DRIVE",
+        "ps": 115,
+        "farbe": "Black",
+        "price": 18.000,
+        "src": "./"
+    },
+
+    {
+        "id":2,
+        "marke": "Porsche",
+        "model": "911 Carrera 4S Cabriolet",
+        "ps": 6500,
+        "farbe": "blue",
+        "price": 145.000,
+        "image": "2_Porsche(cars foto)"
+    },
+    {
+        "id":3,
+        "marke": "Nissan ",
+        "model": "GT-R",
+        "ps": 6500,
+        "farbe": "blue",
+        "price": 80000,
+        "image": "3_Porsche(cars foto)"
+    },
+    {
+        "id":4,
+        "marke": "BMW ",
+        "model": "M3",
+        "ps": 480,
+        "farbe": "blue",
+        "price": 60500,
+        "image": "4_BMW(cars foto)"
+    }, 
+    {
+        "id":5,
+        "marke": "Audi ",
+        "model": "S5",
+        "ps": 354,
+        "farbe": "red",
+        "price": 53000,
+        "image": "4_BMW(cars foto)"
+    },
+    {
+        "id":6,
+        "marke": "Audi",
+        "model": "TT",
+        "ps": 245,
+        "farbe": "red",
+        "price": 40000,
+        "image": "4_BMW(cars foto)"
+    },
+    {
+        "id":7,
+        "marke": "VW",
+        "model": "Polo",
+        "ps": 80,
+        "farbe": "blue",
+        "price": 15000,
+        "image": "4_BMW(cars foto)"
+    },
+    {
+        "id":8,
+        "marke": "Mercedes-Benz AMG",
+        "model": "GT 63 S 4MATIC",
+        "ps": 639,
+        "farbe": "red",
+        "price": 165000,
+        "image": "4_BMW(cars foto)"
+    },
+    {
+        "id":9,
+        "marke": "Toyota",
+        "model": "Mirai",
+        "ps": 639,
+        "farbe": "red",
+        "price": 64000,
+        "image": "4_BMW(cars foto)"
+    },
+    {
+        "id":10,
+        "marke": "Toyota",
+        "model": "Toyota Rush G",
+        "ps": 109,
+        "farbe": "gray",
+        "price": 30000,
+        "image": "10_Toyota Rush G(cars foto)"
+    }
+    
+    ]}
